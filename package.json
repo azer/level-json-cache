@@ -1,0 +1,28 @@
+{
+  "name": "level-json-cache",
+  "version": "0.0.0",
+  "description": "Caching library with LevelDB backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "dependencies": {
+    "level-json": "*",
+    "english-time": "0.0.3",
+    "local-debug": "0.0.0"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "leveldb",
+    "caching",
+    "cache"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/level-json-cache.git",
+    "type": "git"
+  },
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
